@@ -9,7 +9,11 @@ Issue Tracker for the suite of [WgtnGM Foundry Modules](https://foundryvtt.com/c
 - [Mini Edit](https://foundryvtt.com/packages/wgtngm-mini-edit)
 
 Documentation: https://campaigncodex.wgtngm.com/
+
 Discord: https://discord.gg/fycwH79s2y
+
 Patreon: https://www.patreon.com/wgtngm
+
 Ko-fi: https://ko-fi.com/wgtngm
+
 BlueSky: https://bsky.app/profile/wgtngm.bsky
